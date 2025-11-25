@@ -1,0 +1,95 @@
+{
+    "stageId": 3,
+    "title": "Stage 3: The Singularity",
+    "zombieSpeedRange": [
+        40,
+        60
+    ],
+    "spawnInterval": 1200,
+    "maxZombies": 3,
+    "clearCondition": {
+        "kills": 15
+    },
+    "words": [
+        {
+            "ja": "チャンネル登録お願いします",
+            "roma": "tyannerutourokuonegaisimasu"
+        },
+        {
+            "ja": "高評価ボタンを押してね",
+            "roma": "kouhyoukabotanwoositene"
+        },
+        {
+            "ja": "スパチャありがとうございます",
+            "roma": "supatyaarigatougozaimasu"
+        },
+        {
+            "ja": "アーカイブ残します",
+            "roma": "a-kaibunokosimasu"
+        },
+        {
+            "ja": "切り抜き動画を作る",
+            "roma": "kirinukidougawotsukuru"
+        },
+        {
+            "ja": "サーバーが落ちました",
+            "roma": "sa-ba-gaotimasita"
+        },
+        {
+            "ja": "仕様変更によりバグ発生",
+            "roma": "siyouhenkouniyoribaguhassei"
+        },
+        {
+            "ja": "進捗どうですか",
+            "roma": "sintyokudoudesuka"
+        },
+        {
+            "ja": "完全に理解した",
+            "roma": "kanzennirikaisita"
+        },
+        {
+            "ja": "対戦ありがとうございました",
+            "roma": "taisenarigatougozaimasita"
+        },
+        {
+            "ja": "マイクのミュート忘れてました",
+            "roma": "maikunomyu-towasuretemasita"
+        },
+        {
+            "ja": "画面共有が見えていません",
+            "roma": "gamenkyouyuugamieteimasen"
+        },
+        {
+            "ja": "通信環境が悪いです",
+            "roma": "tuusinkankyougawaruidesu"
+        },
+        {
+            "ja": "再起動を試してください",
+            "roma": "saikidouwotamesitekudasai"
+        },
+        {
+            "ja": "キャッシュをクリアしてください",
+            "roma": "kyassyuwokuriasitekudasai"
+        },
+        {
+            "ja": "ログインできません",
+            "roma": "roguindekimasen"
+        },
+        {
+            "ja": "パスワードを忘れました",
+            "roma": "pasuwa-dowowasuremasita"
+        },
+        {
+            "ja": "エラーが発生しました",
+            "roma": "era-gahasseisimasita"
+        },
+        {
+            "ja": "予期せぬエラーです",
+            "roma": "yokisenuera-desu"
+        },
+        {
+            "ja": "システムメンテナンス中",
+            "roma": "sisutemumentenansutyuu"
+        }
+    ]
+}

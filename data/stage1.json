@@ -1,0 +1,95 @@
+{
+    "stageId": 1,
+    "title": "Stage 1: Viral Outbreak",
+    "zombieSpeedRange": [
+        40,
+        60
+    ],
+    "spawnInterval": 2000,
+    "maxZombies": 1,
+    "clearCondition": {
+        "kills": 8
+    },
+    "words": [
+        {
+            "ja": "スマホ",
+            "roma": "sumaho"
+        },
+        {
+            "ja": "アプリ",
+            "roma": "apuri"
+        },
+        {
+            "ja": "いいね",
+            "roma": "iine"
+        },
+        {
+            "ja": "シェア",
+            "roma": "syea"
+        },
+        {
+            "ja": "どうが",
+            "roma": "douga"
+        },
+        {
+            "ja": "はいしん",
+            "roma": "haisin"
+        },
+        {
+            "ja": "バズる",
+            "roma": "bazuru"
+        },
+        {
+            "ja": "推し",
+            "roma": "osi"
+        },
+        {
+            "ja": "課金",
+            "roma": "kakin"
+        },
+        {
+            "ja": "炎上",
+            "roma": "enjou"
+        },
+        {
+            "ja": "フォロワー",
+            "roma": "horowa-"
+        },
+        {
+            "ja": "トレンド",
+            "roma": "torendo"
+        },
+        {
+            "ja": "ハッシュタグ",
+            "roma": "hassyutagu"
+        },
+        {
+            "ja": "リツイート",
+            "roma": "ritui-to"
+        },
+        {
+            "ja": "アカウント",
+            "roma": "akaunto"
+        },
+        {
+            "ja": "ログイン",
+            "roma": "roguin"
+        },
+        {
+            "ja": "パスワード",
+            "roma": "pasuwa-do"
+        },
+        {
+            "ja": "通知",
+            "roma": "tuuti"
+        },
+        {
+            "ja": "既読",
+            "roma": "kidoku"
+        },
+        {
+            "ja": "ブロック",
+            "roma": "burokku"
+        }
+    ]
+}

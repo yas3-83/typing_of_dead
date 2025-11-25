@@ -1,0 +1,95 @@
+{
+    "stageId": 2,
+    "title": "Stage 2: Digital Chaos",
+    "zombieSpeedRange": [
+        40,
+        60
+    ],
+    "spawnInterval": 1800,
+    "maxZombies": 2,
+    "clearCondition": {
+        "kills": 12
+    },
+    "words": [
+        {
+            "ja": "リモートワーク",
+            "roma": "rimoutowa-ku"
+        },
+        {
+            "ja": "フルスタック",
+            "roma": "hurusutakku"
+        },
+        {
+            "ja": "クラウド",
+            "roma": "kuraudo"
+        },
+        {
+            "ja": "サブスク",
+            "roma": "sabusuku"
+        },
+        {
+            "ja": "インフルエンサー",
+            "roma": "inhuruensa-"
+        },
+        {
+            "ja": "メタバース",
+            "roma": "metaba-su"
+        },
+        {
+            "ja": "ブロックチェーン",
+            "roma": "burokkutye-n"
+        },
+        {
+            "ja": "人工知能",
+            "roma": "zinkoutinou"
+        },
+        {
+            "ja": "スタートアップ",
+            "roma": "suta-toappu"
+        },
+        {
+            "ja": "デジタルトランスフォーメーション",
+            "roma": "dezitarutoransuho-me-syon"
+        },
+        {
+            "ja": "ビッグデータ",
+            "roma": "biggude-ta"
+        },
+        {
+            "ja": "サイバーセキュリティ",
+            "roma": "saiba-sekyuriti"
+        },
+        {
+            "ja": "アルゴリズム",
+            "roma": "arugorizumu"
+        },
+        {
+            "ja": "プログラミング",
+            "roma": "puroguramingu"
+        },
+        {
+            "ja": "デバッグ",
+            "roma": "debaggu"
+        },
+        {
+            "ja": "アップデート",
+            "roma": "appude-to"
+        },
+        {
+            "ja": "ダウンロード",
+            "roma": "daunro-do"
+        },
+        {
+            "ja": "インストール",
+            "roma": "insuto-ru"
+        },
+        {
+            "ja": "オンライン",
+            "roma": "onrain"
+        },
+        {
+            "ja": "ネットワーク",
+            "roma": "nettowa-ku"
+        }
+    ]
+}

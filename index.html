@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Typing of the Dead (Web)</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div id="game-container">
+        <div id="hud">
+            <div id="score-board">Score: <span id="score">0</span></div>
+            <div id="lives-board">Lives: <span id="lives">3</span></div>
+        </div>
+        <div id="game-area">
+            <!-- Zombies will be appended here -->
+        </div>
+        <div id="overlay" class="hidden">
+            <h1 id="overlay-title">Game Over</h1>
+            <p id="overlay-message">Press Enter to Restart</p>
+        </div>
+    </div>
+    <script type="module" src="src/main.js"></script>
+</body>
+
+</html>
