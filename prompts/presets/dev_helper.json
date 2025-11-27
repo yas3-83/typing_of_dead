@@ -1,0 +1,10 @@
+﻿{
+  "name": "Dev Helper - typing_of_dead",
+  "description": "このプロジェクト向け定型プロンプト",
+  "system": "prompts/system/base.md を踏まえること",
+  "template": "# タスク\n{{task_desc}}\n\n## 制約\n- 環境: Win/Android Studio or FastAPI\n- 出力: コード + 最小実行手順\n\n## 補足\n{{extra}}",
+  "variables": [
+    {"key":"task_desc","label":"やりたいこと","required":true},
+    {"key":"extra","label":"補足","required":false}
+  ]
+}
